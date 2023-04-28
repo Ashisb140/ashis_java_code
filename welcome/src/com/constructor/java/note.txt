@@ -1,0 +1,32 @@
+/*
+	 * Constructor is a type of method which has no return-type but
+	 * argument-list is present.
+	 * 
+	 * The name of constructor is similar to the class name.
+	 * 
+	 * When the object is created at the compilation stage the default 
+	 * constructor is created.
+	 * 
+	 * There are 2 types of constructor
+	 * 1. default 
+	 * 2. Parameterized constructor
+	 * 
+	 * It is a special method which is used to initialize the object.
+	 * 
+	 * Every time an object is created using the new() keyword, at least 
+	 * one constructor is called.
+	 * 
+	 * If there is no constructor available in the class then that time 
+	 * default constructor is called.
+	 * 
+	 * A java constructor cannot be abstract, static, final and synchronized.
+	 
+	 Constructor overloading is technique of having mor than one constructor with
+	 different parameter list. they are differentiated by the compiler by help of
+	 no. of parameters.
+	 
+	 Implicitly - Constructor Call
+	   
+	 Explicitly - Method Call
+	 
+	 */
